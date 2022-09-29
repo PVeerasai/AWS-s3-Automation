@@ -1,0 +1,16 @@
+cloud:
+  aws:
+    credentials:
+      access-key: AKIARI2JIGRZJO6Z77FQ
+      secret-key: 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
+    region:
+      static: ap-south-1
+    stack:
+      auto: false
+
+application:
+  bucket:
+    name: csvfilesautomation
+
+server:
+  port: 8080
