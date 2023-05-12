@@ -1,8 +1,8 @@
 cloud:
   aws:
     credentials:
-      access-key: AKIARI2JIGRZJO6Z77FQ
-      secret-key: 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
+      access-key: AKIA25BTQUZ742XIAJEJ
+      secret-key: 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
     region:
       static: ap-south-1
     stack:
@@ -10,7 +10,7 @@ cloud:
 
 application:
   bucket:
-    name: csvfilesautomation
+    name: springboot-s31
 
 server:
   port: 8080
